@@ -1,3 +1,6 @@
 [submodule "jenkins"]
 	path = jenkins
 	url = git@github.com:deagon/jenkins-docker-build.git
+[submodule "finebi"]
+	path = finebi
+	url = git@github.com:deagon/finebi-docker-build.git
